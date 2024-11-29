@@ -8,6 +8,7 @@
 body {
     font-family: 'Inter', sans-serif;
     font-style: normal;
+    color: #303030;
 }
 
 a {
@@ -46,7 +47,6 @@ header span {
 .main-title {
     font-weight: 700;
     font-size: 48px;
-    color: #303030;
     margin-bottom: 20px;
     background-color: #fafaff;
 }
@@ -54,7 +54,6 @@ header span {
 .main-text {
     font-weight: 400;
     font-size: 18px;
-    color: #303030;
     background-color: #fafaff;
 }
 
@@ -81,7 +80,6 @@ select {
 .section-title {
     font-weight: 700;
     font-size: 24px;
-    color: #303030;
     margin-bottom: 25px;
 }
 
@@ -96,14 +94,12 @@ select {
 .books-list {
     font-weight: 400;
     font-size: 16px;
-    color: #303030;
     margin-left: 20px;
 }
 
 .label {
     font-weight: 400;
     font-size: 16px;
-    color: #303030;
 }
 
 .text-field {
@@ -147,7 +143,6 @@ th {
     font-weight: 700;
     font-size: 14px;
     text-align: center;
-    color: #303030;
     border: 1px solid #95a1bb;
 
 }
